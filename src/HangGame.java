@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class HangGame {
 	public static void main(String[] args) throws Exception {
 
 		// HANG GAME
