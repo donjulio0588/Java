@@ -50,7 +50,7 @@ public class HangGame {
 
 		// Si se han acabado los intentos
 		if (!isGuessed) {
-			System.out.println("GAME OVER, te has quedado sin intentos 🫤");
+			System.out.println("GAME OVER, te has quedado sin intentos !🫤");
 		}
 
 		scanner.close();
