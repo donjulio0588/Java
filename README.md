@@ -1,3 +1,3 @@
 ## Getting Started
 
-#### Learning Java Lang through this simple Hang Game
+#### Learning Java Lang through this simple Hang Game 😎
